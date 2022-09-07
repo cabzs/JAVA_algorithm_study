@@ -13,9 +13,9 @@ public class Boj11382 {
 //		int b = sc.nextInt();
 //		int c = sc.nextInt();
 		
-		Long a = sc.nextLong();
-		Long b = sc.nextLong();
-		Long c = sc.nextLong();
+		long a = sc.nextLong();
+		long b = sc.nextLong();
+		long c = sc.nextLong();
 		
 		
 		System.out.println(a+b+c);
